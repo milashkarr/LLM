@@ -1,6 +1,10 @@
-Given the problem: {problem}
-Step-by-step reasoning:
-1. Analyze the input list provided in the problem.
-2. Extract the character at the specified index (zero-based) from each word.
-3. Concatenate the extracted characters with a space between them.
-Final answer: [your answer]
+Your task is to solve the problem below. You can reason about the problem before stating your answer. The answer MUST be between the following tags: <ANSWER>...</ANSWER>. An example is provided to showcase how to use the tags; you must only solve the last problem given.
+
+## Examples
+
+{examples}
+
+## Problem
+
+Problem: {problem}
+Answer: Let's think step by step.
